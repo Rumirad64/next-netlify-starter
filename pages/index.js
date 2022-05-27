@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Hi! Welcome to my app! " />
         <h3> Example commit </h3>
         <p className="description">
           Get started by editing Test <code>pages/index.js</code>
